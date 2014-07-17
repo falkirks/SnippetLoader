@@ -1,0 +1,6 @@
+name: SnippetLoader
+main: snippetloader\SnippetLoader
+version: 0.1
+author: Falk
+api: [1.0.0]
+load: STARTUP
